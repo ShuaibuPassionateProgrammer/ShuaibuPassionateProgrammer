@@ -2,35 +2,42 @@
 
 🎓 **Full-Stack Software Developer** | 📱 **Mobile App Developer**
 
-Welcome to my GitHub! With over **5 years** of experience building scalable web and mobile applications, I specialize in full-stack development and cross-platform mobile solutions. I'm passionate about clean architecture, user-focused design, and using technology to solve meaningful problems.
+Welcome to my GitHub! I'm a passionate software engineer with over **5 years** of experience crafting scalable web and mobile applications. My expertise spans full-stack development, cross-platform mobile solutions, and building robust, user-centered products. I believe in clean architecture, intuitive design, and using technology to solve meaningful problems.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Daisy_UI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <br />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Daisy_UI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="Daisy UI" />
   <br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ---
@@ -38,32 +45,49 @@ Welcome to my GitHub! With over **5 years** of experience building scalable web 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimshuaibuisa&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats for ShuaibuPassionateProgrammer" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimshuaibuisa&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahimshuaibuisa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-- **[Project Name 1](#)** — A brief description of what the project does, the tech stack used, and challenges solved.
-- **[Project Name 2](#)** — A summary of features and why it’s interesting or useful.
-- **[Project Name 3](#)** — What makes this project stand out and its role in your portfolio.
+- **[MyPortfolio](https://github.com/ShuaibuPassionateProgrammer/myportfolio)**  
+  Personal portfolio website built with Next.js and Tailwind CSS, featuring a modern design, dark mode, and seamless mobile responsiveness.
 
-> *Update with actual project links and descriptions for best results.*
+- **[Taskify](https://github.com/ShuaibuPassionateProgrammer/taskify)**  
+  Cross-platform productivity app built with Flutter and Firebase, enabling real-time collaboration, project management, and offline access.
+
+- **[E-Shop Backend](https://github.com/ShuaibuPassionateProgrammer/e-shop-backend)**  
+  RESTful API for an e-commerce platform utilizing Express.js, MongoDB, and JWT authentication for secure transactions and user management.
+
+> _Want to see more? Check out my pinned repositories for additional projects!_
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace this list with your latest posts using a workflow or manually -->
+- [Clean Architecture in Mobile Development](https://medium.com/@yourmediumprofile/clean-architecture-in-mobile-development-123456)
+- [Building Scalable APIs with Node.js & Express](https://medium.com/@yourmediumprofile/building-scalable-apis-with-nodejs-654321)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Twitter](https://twitter.com/your_actual_twitter_handle)
 - [Medium](https://medium.com/@yourmediumprofile)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:your.actual@email.com)
 
-I'm always open to collaborations, open-source contributions, or even just a good conversation about tech. Let's build something great together! 🚀
+I'm always open to collaborations, open-source contributions, or just a good conversation about tech. Let's build something great together! 🚀
 
 ---
+
+<sub>_Last updated: 2025-05-24_</sub>
