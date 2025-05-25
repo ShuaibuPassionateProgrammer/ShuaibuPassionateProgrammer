@@ -8,36 +8,139 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <br />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn UI" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/Daisy_UI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="Daisy UI" />
-  <br />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<div align="center" style="width:100%;max-width:900px;margin:auto;">
+
+<!-- Web & Backend Frameworks -->
+### 🌐 Web & Backend Frameworks
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br><sub>React</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /><br><sub>Next.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /><br><sub>Express.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br><sub>Node.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /><br><sub>Laravel</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br><sub>PHP</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br><sub>Supabase</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Programming Languages -->
+### 💻 Programming Languages
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br><sub>JavaScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br><sub>TypeScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br><sub>C++</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br><sub>C</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><br><sub>C#</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br><sub>Kotlin</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /><br><sub>Java</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Mobile & Cross-Platform -->
+### 📱 Mobile & Cross-Platform
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /><br><sub>Flutter</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /><br><sub>React Native</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- UI Libraries & CSS Frameworks -->
+### 🎨 UI Libraries & CSS
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /><br><sub>Bootstrap</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br><sub>Tailwind CSS</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn UI" /><br><sub>Shadcn UI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /><br><sub>Chakra UI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" /><br><sub>Radix UI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Daisy_UI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="Daisy UI" /><br><sub>Daisy UI</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Databases & Cloud -->
+### 🗄️ Databases & Cloud
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br><sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /><br><sub>Firebase</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br><sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br><sub>Supabase</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- DevOps & Tools -->
+### ⚙️ DevOps & Tools
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br><sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br><sub>GitHub</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br><sub>Docker</sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -45,11 +148,11 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats for ShuaibuPassionateProgrammer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats for ShuaibuPassionateProgrammer" style="max-width:100%;min-width:250px;" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%;min-width:250px;" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" style="max-width:100%;min-width:250px;" />
 </p>
 
 ---
@@ -81,13 +184,26 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/)
-- [Twitter](https://twitter.com/your_actual_twitter_handle)
-- [Medium](https://medium.com/@yourmediumprofile)
-- [Email](mailto:your.actual@email.com)
+<div align="center" style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;margin:12px 0;">
+  <a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your_actual_twitter_handle" target="_blank" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@yourmediumprofile" target="_blank" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:your.actual@email.com" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-I'm always open to collaborations, open-source contributions, or just a good conversation about tech. Let's build something great together! 🚀
+<p align="center">
+I'm always open to collaborations, open-source contributions, or just a good conversation about tech.<br>
+Let's build something great together! 🚀
+</p>
 
 ---
 
-<sub>_Last updated: 2025-05-24_</sub>
+<sub>_Last updated: 2025-05-25_</sub>
