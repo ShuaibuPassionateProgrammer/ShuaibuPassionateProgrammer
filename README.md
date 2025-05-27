@@ -1,17 +1,20 @@
 # 👋 Hi there, I'm Ibrahim Shuaibu Isa
 
-🎓 **Full-Stack Software Developer** | 📱 **Mobile App Developer**
+🎓 **Full-Stack Software Developer** | 📱 **Mobile App Developer**  
+🌍 **Based in Nigeria**
 
-Welcome to my GitHub! I'm a passionate software engineer with over **5 years** of experience crafting scalable web and mobile applications. My expertise spans full-stack development, cross-platform mobile solutions, and building robust, user-centered products. I believe in clean architecture, intuitive design, and using technology to solve meaningful problems.
+---
+
+Welcome to my GitHub! With over **5 years** of experience, I craft scalable web and mobile applications, focusing on clean architecture, intuitive design, and real-world problem-solving. I love building robust, user-centered products and contributing to open-source.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<div align="center" style="width:100%;max-width:900px;margin:auto;">
+<div align="center" style="width:100%;max-width:1100px;margin:auto;">
 
 <!-- Web & Backend Frameworks -->
-### 🌐 Web & Backend Frameworks
+### 🌐 Web & Backend
 <table>
   <tr>
     <td align="center">
@@ -35,18 +38,33 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
     <td align="center">
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br><sub>Supabase</sub>
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/EJS-8CBB1F?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" /><br><sub>EJS</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/NextAuth.js-2d3748?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js" /><br><sub>NextAuth.js</sub>
+    </td>
   </tr>
 </table>
 
-<!-- Programming Languages -->
-### 💻 Programming Languages
+<!-- Programming Languages & Libraries -->
+### 💻 Languages & Libraries
 <table>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br><sub>JavaScript</sub>
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /><br><sub>jQuery</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AJAX-4A90E2?style=for-the-badge&logo=ajax&logoColor=white" alt="AJAX" /><br><sub>AJAX</sub>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br><sub>TypeScript</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /><br><sub>Dart</sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br><sub>C++</sub>
@@ -62,6 +80,46 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /><br><sub>Java</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br><sub>HTML5</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br><sub>CSS3</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Databases & ORMs -->
+### 🗄️ Databases & ORMs
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br><sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br><sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" /><br><sub>Mongoose</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /><br><sub>Prisma</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /><br><sub>SQLite</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /><br><sub>Firebase</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /><br><sub>Appwrite</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br><sub>Supabase</sub>
     </td>
   </tr>
 </table>
@@ -104,28 +162,6 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
   </tr>
 </table>
 
-<!-- Databases & Cloud -->
-### 🗄️ Databases & Cloud
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br><sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br><sub>PostgreSQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /><br><sub>Firebase</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br><sub>MongoDB</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br><sub>Supabase</sub>
-    </td>
-  </tr>
-</table>
-
 <!-- DevOps & Tools -->
 ### ⚙️ DevOps & Tools
 <table>
@@ -145,10 +181,18 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
 
 ---
 
+## 🚀 Highlights
+
+- 🏆 **Open Source:** Contributor to several open-source projects and communities.
+- 🛡️ **Quality First:** Passionate about clean code, testing, and CI/CD.
+- 💡 **Mentorship:** Active mentor & tech community supporter.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats for ShuaibuPassionateProgrammer" style="max-width:100%;min-width:250px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="max-width:100%;min-width:250px;" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%;min-width:250px;" />
   <br /><br />
@@ -158,6 +202,8 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
 ---
 
 ## 🌟 Featured Projects
+
+<!-- Optionally add screenshots, GIFs, or badges for extra polish -->
 
 - **[MyPortfolio](https://github.com/ShuaibuPassionateProgrammer/myportfolio)**  
   Personal portfolio website built with Next.js and Tailwind CSS, featuring a modern design, dark mode, and seamless mobile responsiveness.
@@ -175,10 +221,18 @@ Welcome to my GitHub! I'm a passionate software engineer with over **5 years** o
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Replace this list with your latest posts using a workflow or manually -->
+<!-- Replace with a workflow or update manually -->
 - [Clean Architecture in Mobile Development](https://medium.com/@yourmediumprofile/clean-architecture-in-mobile-development-123456)
 - [Building Scalable APIs with Node.js & Express](https://medium.com/@yourmediumprofile/building-scalable-apis-with-nodejs-654321)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏅 Achievements & Certifications
+
+- [Google Africa Developer Scholarship (GADS) Graduate](https://www.pluralsight.com/)
+- [Certified Flutter Developer (App Brewery)](https://www.appbrewery.co/)
+<!-- Add actual certification links if available -->
 
 ---
 
@@ -206,4 +260,4 @@ Let's build something great together! 🚀
 
 ---
 
-<sub>_Last updated: 2025-05-25_</sub>
+<sub>_Last updated: 2025-05-27_</sub>
