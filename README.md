@@ -21,6 +21,8 @@ Welcome to my GitHub! With over **5 years** of experience, I craft scalable web 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/EJS-8CBB1F?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
   <img src="https://img.shields.io/badge/NextAuth.js-2d3748?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth.js" />
+  <img src="https://img.shields.io/badge/Clerk-3B2AE7?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Convex-1B1F23?style=for-the-badge&logo=convex&logoColor=56D364" alt="Convex" />
 
   <!-- Languages & Libraries -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -115,9 +117,8 @@ Welcome to my GitHub! With over **5 years** of experience, I craft scalable web 
 
 ## 🏅 Achievements & Certifications
 
-- [Google Africa Developer Scholarship (GADS) Graduate](https://www.pluralsight.com/)
-- [Certified Flutter Developer (App Brewery)](https://www.appbrewery.co/)
-<!-- Add actual certification links if available -->
+- [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/responsive-web-design)
+- [freeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/javascript-algorithms-and-data-structures-v8)
 
 ---
 
@@ -142,4 +143,3 @@ Welcome to my GitHub! With over **5 years** of experience, I craft scalable web 
 I'm always open to collaborations, open-source contributions, or just a good conversation about tech.<br>
 Let's build something great together! 🚀
 </p>
-
