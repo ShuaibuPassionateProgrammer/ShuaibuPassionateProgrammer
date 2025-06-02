@@ -133,7 +133,7 @@ Welcome to my GitHub! With over **5 years** of experience, I craft scalable web 
   <a href="https://medium.com/@yourmediumprofile" target="_blank" style="margin:0 10px;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="mailto:your.actual@email.com" style="margin:0 10px;">
+  <a href="mailto:shuaibuibrahim523@gmail.com" style="margin:0 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -143,6 +143,3 @@ I'm always open to collaborations, open-source contributions, or just a good con
 Let's build something great together! 🚀
 </p>
 
----
-
-<sub>_Last updated: 2025-06-02_</sub>
