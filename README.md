@@ -1,10 +1,36 @@
-# 👋 Hi there, I'm Ibrahim Shuaibu Isa
+<!-- Profile ReadMe for Ibrahim Shuaibu Isa | ShuaibuPassionateProgrammer -->
 
-🎓 **Full-Stack Software Developer** | 📱 **Mobile App Developer**
+<div align="center">
+
+# 👋 Hi, I'm <span style="color:#0e75b6"><b>Ibrahim Shuaibu Isa</b></span>  
+🎓 <b>Full-Stack Software Developer</b> &nbsp;|&nbsp; 📱 <b>Mobile App Developer</b>
+
+<img src="https://komarev.com/ghpvc/?username=ShuaibuPassionateProgrammer&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-Welcome to my GitHub! With over **5 years** of experience, I craft scalable web and mobile applications, focusing on clean architecture, intuitive design, and real-world problem-solving. I love building robust, user-centered products and contributing to open-source.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=2000&color=0e75b6&center=true&vCenter=true&width=950&lines=Creating+robust+solutions+for+the+future.;Passionate+about+clean+code+%26+user-centered+design.;Open+Source+Enthusiast+and+Mentor.;Let's+build+the+next+big+thing+together!+" />
+</p>
+
+---
+
+<p align="center">
+<b>💼 5+ Years</b> experience in scalable web & mobile solutions  
+<b>💡 Driven by impactful, intuitive technology that solves real-world problems</b>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🛠️ <b>Technologies:</b> React, Next.js, Node.js, Express, Laravel, Flutter, Firebase, PostgreSQL, and more.
+- 🏆 <b>Open Source:</b> Contributor to projects and active in tech communities.
+- 🛡️ <b>Quality First:</b> Strong believer in clean code, code reviews, testing, and CI/CD.
+- 💡 <b>Mentorship:</b> I love helping others level up and grow in tech.
+- 🧑‍💻 <b>Currently:</b> Exploring AI/ML integrations and cross-platform apps.
 
 ---
 
@@ -68,47 +94,34 @@ Welcome to my GitHub! With over **5 years** of experience, I craft scalable web 
 
 ---
 
-## 🚀 Highlights
-
-- 🏆 **Open Source:** Contributor to several open-source projects and communities.
-- 🛡️ **Quality First:** Passionate about clean code, testing, and CI/CD.
-- 💡 **Mentorship:** Active mentor & tech community supporter.
-
----
-
-## 📊 GitHub Stats
+## ✨ GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="max-width:100%;min-width:250px;" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" style="max-width:100%;min-width:250px;" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" style="max-width:100%;min-width:250px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<!-- Optionally add screenshots, GIFs, or badges for extra polish -->
-
 - **[MyPortfolio](https://github.com/ShuaibuPassionateProgrammer/myportfolio)**  
-  Personal portfolio website built with Next.js and Tailwind CSS, featuring a modern design, dark mode, and seamless mobile responsiveness.
+  <sub>Personal portfolio with Next.js & Tailwind CSS, modern UI, dark mode, fully responsive.</sub>
 
 - **[Taskify](https://github.com/ShuaibuPassionateProgrammer/taskify)**  
-  Cross-platform productivity app built with Flutter and Firebase, enabling real-time collaboration, project management, and offline access.
+  <sub>Productivity app with Flutter & Firebase, real-time collaboration, project management, offline support.</sub>
 
 - **[E-Shop Backend](https://github.com/ShuaibuPassionateProgrammer/e-shop-backend)**  
-  RESTful API for an e-commerce platform utilizing Express.js, MongoDB, and JWT authentication for secure transactions and user management.
+  <sub>RESTful API for e-commerce (Express.js, MongoDB, JWT Auth) — secure and powerful backend for scalable shops.</sub>
 
-> _Want to see more? Check out my pinned repositories for additional projects!_
+> _See more in my pinned repositories!_
 
 ---
 
-## 📝 Latest Blog Posts
+## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Replace with a workflow or update manually -->
 - [Clean Architecture in Mobile Development](https://medium.com/@yourmediumprofile/clean-architecture-in-mobile-development-123456)
 - [Building Scalable APIs with Node.js & Express](https://medium.com/@yourmediumprofile/building-scalable-apis-with-nodejs-654321)
 <!-- BLOG-POST-LIST:END -->
@@ -117,29 +130,41 @@ Welcome to my GitHub! With over **5 years** of experience, I craft scalable web 
 
 ## 🏅 Achievements & Certifications
 
-- [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/responsive-web-design)
-- [freeCodeCamp JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/javascript-algorithms-and-data-structures-v8)
+- [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/responsive-web-design)
+- [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/javascript-algorithms-and-data-structures-v8)
 
 ---
 
-## 📬 Connect with Me
+## 🤝 Let's Connect
 
-<div align="center" style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;margin:12px 0;">
-  <a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" style="margin:0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/shuaibu92685472" target="_blank" style="margin:0 10px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@yourmediumprofile" target="_blank" style="margin:0 10px;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:shuaibuibrahim523@gmail.com" style="margin:0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/shuaibu92685472" target="_blank" title="Say hi on Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@yourmediumprofile" target="_blank" title="Read my Medium articles">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:shuaibuibrahim523@gmail.com" title="Email me">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
+<br/>
+
 <p align="center">
-I'm always open to collaborations, open-source contributions, or just a good conversation about tech.<br>
-Let's build something great together! 🚀
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35"/>
+  <strong>Excited to collaborate, contribute to open-source, or chat tech and innovation.<br>
+  <span style="color:#0e75b6;">Let's connect and build something impactful together!</span> 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
 </p>
