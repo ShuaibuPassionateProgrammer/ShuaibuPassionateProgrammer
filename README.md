@@ -119,12 +119,30 @@
 
 ---
 
-## 📚 Latest Blog Posts
+## 🔍 What Inspires Me Lately
 
-<!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in Mobile Development](https://medium.com/@yourmediumprofile/clean-architecture-in-mobile-development-123456)
-- [Building Scalable APIs with Node.js & Express](https://medium.com/@yourmediumprofile/building-scalable-apis-with-nodejs-654321)
-<!-- BLOG-POST-LIST:END -->
+- **🧠 Favorite Reads:**  
+  - [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/) – Shaped my approach to software craftsmanship.
+  - [Refactoring UI](https://refactoringui.com/book/) – Helped me bring more polish and UX thinking to my projects.
+
+- **🌐 Standout Online Resources:**  
+  - [Frontend Masters](https://frontendmasters.com/) & [freeCodeCamp](https://www.freecodecamp.org/) – My go-to for deep dives and quick refreshers.
+  - [Stack Overflow](https://stackoverflow.com/) – Where I learn as much from asking as from answering.
+
+- **👨‍💻 Dev Philosophy:**  
+  - Build things that make a difference, then share what you learn.
+  - Code is better when it’s collaborative and reviewed.
+  - Celebrate meaningful progress, not just finished features.
+
+- **✨ Recent Wins:**  
+  - Mentored several junior devs through their first open-source contributions.
+  - Helped launch a cross-platform productivity app with real-time sync using Flutter + Firebase.
+
+- **🎯 What’s Next:**  
+  - Exploring AI-powered features in user-facing apps.
+  - Sharpening my TypeScript and cloud skills—always learning, always sharing!
+
+> _I’m always open to chat about code, tech careers, or cool book recommendations—[let’s connect!](mailto:shuaibuibrahim523@gmail.com)_
 
 ---
 
