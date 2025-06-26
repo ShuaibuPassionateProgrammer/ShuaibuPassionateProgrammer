@@ -24,16 +24,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🛠️ <b>Technologies:</b> React, Next.js, Node.js, Express, Laravel, Flutter, Firebase, PostgreSQL, and more.
-- 🏆 <b>Open Source:</b> Contributor to projects and active in tech communities.
-- 🛡️ <b>Quality First:</b> Strong believer in clean code, code reviews, testing, and CI/CD.
-- 💡 <b>Mentorship:</b> I love helping others level up and grow in tech.
-- 🧑‍💻 <b>Currently:</b> Exploring AI/ML integrations and cross-platform apps.
-
----
-
 ## 🛠️ Technologies & Tools
 
 <p align="center">
@@ -101,6 +91,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" height="170"/>
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🛠️ <b>Technologies:</b> React, Next.js, Node.js, Express, Laravel, Flutter, Firebase, PostgreSQL, and more.
+- 🏆 <b>Open Source:</b> Contributor to projects and active in tech communities.
+- 🛡️ <b>Quality First:</b> Strong believer in clean code, code reviews, testing, and CI/CD.
+- 💡 <b>Mentorship:</b> I love helping others level up and grow in tech.
+- 🧑‍💻 <b>Currently:</b> Exploring AI/ML integrations and cross-platform apps.
+
 
 ---
 
