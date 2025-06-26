@@ -166,6 +166,7 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
 </p>
+
 ---
 
 ### 💬 What I Love Discussing
