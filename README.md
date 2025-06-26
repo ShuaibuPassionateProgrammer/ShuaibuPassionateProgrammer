@@ -104,89 +104,7 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎨 [MyPortfolio](https://github.com/ShuaibuPassionateProgrammer/myportfolio)
-**Personal Portfolio & Brand Identity**  
-A modern, responsive portfolio built with Next.js 14 and Tailwind CSS. Features seamless dark/light mode transitions, smooth animations, and optimized performance. Showcases my development journey and technical expertise through an intuitive, accessible design.
-
-**Tech Stack**: Next.js • Tailwind CSS • TypeScript • Framer Motion  
-**Highlights**: Dark mode toggle • Responsive design • Performance optimized • SEO friendly
-
----
-
-### 📱 [Taskify](https://github.com/ShuaibuPassionateProgrammer/taskify)
-**Cross-Platform Productivity Suite**  
-A comprehensive task management application built with Flutter, enabling real-time collaboration across teams. Features offline-first architecture, project organization, and seamless synchronization with Firebase backend.
-
-**Tech Stack**: Flutter • Firebase • Dart • Cloud Firestore  
-**Highlights**: Real-time collaboration • Offline support • Cross-platform • Team management
-
----
-
-### 🛒 [E-Shop Backend](https://github.com/ShuaibuPassionateProgrammer/e-shop-backend)
-**Enterprise E-Commerce API**  
-Robust RESTful API powering scalable e-commerce solutions. Built with Express.js and MongoDB, featuring JWT authentication, payment integration, inventory management, and comprehensive security measures for production environments.
-
-**Tech Stack**: Express.js • MongoDB • JWT • Node.js  
-**Highlights**: Secure authentication • Payment gateway • Inventory system • Production-ready
-
----
-
 > 💡 **Want to see more?** Check out my [pinned repositories](https://github.com/ShuaibuPassionateProgrammer) for additional projects and open-source contributions!
-
----
-
-## 🔍 What Inspires Me Lately
-
-- **🧠 Favorite Reads:**  
-  - [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/) – Shaped my approach to software craftsmanship.
-  - [Refactoring UI](https://refactoringui.com/book/) – Helped me bring more polish and UX thinking to my projects.
-
-- **🌐 Standout Online Resources:**  
-  - [Frontend Masters](https://frontendmasters.com/) & [freeCodeCamp](https://www.freecodecamp.org/) – My go-to for deep dives and quick refreshers.
-  - [Stack Overflow](https://stackoverflow.com/) – Where I learn as much from asking as from answering.
-
-- **👨‍💻 Dev Philosophy:**  
-  - Build things that make a difference, then share what you learn.
-  - Code is better when it’s collaborative and reviewed.
-  - Celebrate meaningful progress, not just finished features.
-
-- **✨ Recent Wins:**  
-  - Mentored several junior devs through their first open-source contributions.
-  - Helped launch a cross-platform productivity app with real-time sync using Flutter + Firebase.
-
-- **🎯 What’s Next:**  
-  - Exploring AI-powered features in user-facing apps.
-  - Sharpening my TypeScript and cloud skills—always learning, always sharing!## 📚 Knowledge & Growth
-
-### 🧠 Books That Shaped My Code
-**[Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)**  
-*The foundation of my software craftsmanship philosophy* — This book transformed how I think about writing maintainable, readable code that stands the test of time.
-
-**[Refactoring UI](https://refactoringui.com/book/)**  
-*Where design meets development* — Elevated my understanding of user experience and taught me to think like both a developer and designer.
-
-### 🌐 Learning Ecosystem
-**Deep Learning Platforms**  
-[Frontend Masters](https://frontendmasters.com/) • [freeCodeCamp](https://www.freecodecamp.org/)  
-*My trusted companions for mastering new technologies and reinforcing fundamentals*
-
-**Community Knowledge**  
-[Stack Overflow](https://stackoverflow.com/) • GitHub Discussions • Dev.to  
-*Where I contribute to the community while continuously learning from brilliant minds worldwide*
-
----
-
-## 🎯 Development Philosophy
-
-> **"Build things that make a difference, then share what you learn"**
-
-**Core Principles:**
-- **Collaborative Excellence**: Code reaches its full potential through peer review and team collaboration
-- **Meaningful Progress**: I celebrate incremental improvements and learning moments, not just shipped features
-- **Knowledge Sharing**: Every challenge overcome is an opportunity to help others facing similar problems
-- **User-Centric Thinking**: Great code serves great user experiences
 
 ---
 
@@ -220,46 +138,34 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 
 ---
 
-### 🚀 Currently Pursuing
-
-**📚 In Progress**
-- **AWS Cloud Practitioner Certification** — Expanding cloud architecture expertise
-- **TypeScript Advanced Patterns** — Deepening type-safe development skills
-- **System Design Fundamentals** — Building scalable application architecture knowledge
-
-**🎯 2025 Goals**
-- Complete React/Next.js advanced certification pathway
-- Contribute to major open-source frameworks
-- Launch technical blog with 50+ educational articles
-- Obtain cloud architecture professional certification
-
----
-
-> 💡 **Verification Available**: All certifications are publicly verifiable through the provided links. I believe in transparent skill demonstration and continuous professional development!
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="left">
-
-### 🌐 Find Me Across The Web
-
-<a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" title="Professional networking & career updates">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn - Professional Network"/>
+## 🤝 Let's Connect
+<div align="center">
+<a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<a href="https://x.com/shuaibu92685472" target="_blank" title="Tech thoughts & quick updates">
-  <img src="https://img.shields.io/badge/Twitter-Tech_Conversations-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter - Tech Discussions"/>
+&nbsp;
+<a href="https://x.com/shuaibu92685472" target="_blank" title="Say hi on Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-
-<a href="https://medium.com/@shuaibuibrahim523" target="_blank" title="Deep-dive technical articles & tutorials">
-  <img src="https://img.shields.io/badge/Medium-Technical_Writing-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium - Technical Articles"/>
+&nbsp;
+<a href="https://medium.com/@yourmediumprofile" target="_blank" title="Read my Medium articles">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
-
-<a href="mailto:shuaibuibrahim523@gmail.com" title="Direct communication for collaborations">
-  <img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email - Direct Communication"/>
+&nbsp;
+<a href="mailto:shuaibuibrahim523@gmail.com" title="Email me">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+</div>
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35"/>
+  <strong>Excited to collaborate, contribute to open-source, or chat tech and innovation.<br>
+  <span style="color:
+#0e75b6;">Let's connect and build something impactful together!</span> 🚀</strong>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
+</p>
 ---
 
 ### 💬 What I Love Discussing
