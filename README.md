@@ -102,11 +102,6 @@
 - 💡 <b>Mentorship:</b> I love helping others level up and grow in tech.
 - 🧑‍💻 <b>Currently:</b> Exploring AI/ML integrations and cross-platform apps.
 
-
----
-
-> 💡 **Want to see more?** Check out my [pinned repositories](https://github.com/ShuaibuPassionateProgrammer) for additional projects and open-source contributions!
-
 ---
 
 ## 💬 Let's Connect & Collaborate
