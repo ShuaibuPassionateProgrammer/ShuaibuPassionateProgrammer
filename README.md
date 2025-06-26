@@ -190,32 +190,6 @@ Robust RESTful API powering scalable e-commerce solutions. Built with Express.js
 
 ---
 
-## 🏆 Recent Achievements
-
-**🌟 Community Impact**  
-Successfully mentored 5+ junior developers through their first open-source contributions, helping them build confidence and technical skills while contributing to meaningful projects.
-
-**🚀 Technical Milestone**  
-Led the development and launch of **Taskify** — a cross-platform productivity suite with real-time synchronization, serving active users and demonstrating the power of Flutter + Firebase architecture.
-
-**📈 Continuous Growth**  
-Consistently expanding my expertise in modern web technologies while maintaining a strong focus on clean architecture and user experience principles.
-
----
-
-## 🔮 What's On The Horizon
-
-**🤖 AI Integration**  
-Exploring cutting-edge AI-powered features for user-facing applications — from intelligent automation to enhanced user interactions that feel natural and helpful.
-
-**⚡ Technical Evolution**  
-Deepening my expertise in **TypeScript** for type-safe applications and advancing my **cloud architecture** skills for scalable, distributed systems.
-
-**🌱 Knowledge Sharing**  
-Planning to launch a technical blog series documenting real-world development challenges and solutions — because the best way to solidify learning is through teaching.
-
----
-
 ## 💬 Let's Connect & Collaborate
 
 I'm passionate about meaningful conversations around:
@@ -243,20 +217,6 @@ Mastered modern CSS techniques, Flexbox, CSS Grid, and responsive design princip
 **🧮 [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/javascript-algorithms-and-data-structures-v8)**  
 *freeCodeCamp (300+ hours)*  
 Developed strong foundation in ES6+ JavaScript, functional programming, and algorithmic thinking. Completed comprehensive challenges covering data manipulation, algorithm optimization, and problem-solving techniques essential for building robust applications.
-
----
-
-### 🌟 Additional Accomplishments
-
-**🎯 Technical Milestones**
-- **Open Source Contributions**: Active contributor to community projects with meaningful pull requests
-- **Project Portfolio**: Successfully deployed 10+ full-stack applications using modern frameworks
-- **Code Quality**: Maintained 95%+ test coverage across personal projects with comprehensive testing strategies
-
-**👥 Community Impact**
-- **Mentorship**: Guided 5+ junior developers through their first professional contributions
-- **Knowledge Sharing**: Regular participant in developer communities and technical discussions
-- **Continuous Learning**: Completed 50+ hours of advanced coursework in React, Node.js, and cloud technologies
 
 ---
 
@@ -340,41 +300,3 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 </td>
 </tr>
 </table>
-
----
-
-### 🎯 Always Open For
-
-**🤝 Collaboration Opportunities**
-- Open source project contributions
-- Startup and side project partnerships  
-- Technical mentoring and knowledge exchange
-
-**💡 Meaningful Conversations**
-- Career growth in tech industry
-- Book recommendations (technical & beyond)
-- Innovative project ideas and brainstorming
-
-**🌟 Community Engagement**
-- Speaking at developer meetups
-- Code reviews and pair programming
-- Junior developer mentorship programs
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35"/>
-
-**Ready to build something amazing together?**
-
-*Whether you're looking to collaborate on cutting-edge projects, contribute to open source, or simply chat about the latest in tech — I'm excited to connect with fellow passionate developers!*
-
-### 🚀 **Let's turn ideas into impact!** 
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
-
-</div>
