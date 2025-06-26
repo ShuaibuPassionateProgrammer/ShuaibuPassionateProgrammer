@@ -104,20 +104,6 @@
 
 ---
 
-## 🏅 Achievements & Certifications
-
-### 📜 Verified Credentials
-
-**🎨 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/responsive-web-design)**  
-*freeCodeCamp (300+ hours)*  
-Mastered modern CSS techniques, Flexbox, CSS Grid, and responsive design principles. Built 5 real-world projects including a personal portfolio, survey form, and product landing page — demonstrating proficiency in creating accessible, mobile-first web experiences.
-
-**🧮 [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/javascript-algorithms-and-data-structures-v8)**  
-*freeCodeCamp (300+ hours)*  
-Developed strong foundation in ES6+ JavaScript, functional programming, and algorithmic thinking. Completed comprehensive challenges covering data manipulation, algorithm optimization, and problem-solving techniques essential for building robust applications.
-
----
-
 ### 💬 What I Love Discussing
 
 <table align="center">
@@ -156,6 +142,20 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 </td>
 </tr>
 </table>
+
+---
+
+## 🏅 Achievements & Certifications
+
+### 📜 Verified Credentials
+
+**🎨 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/responsive-web-design)**  
+*freeCodeCamp (300+ hours)*  
+Mastered modern CSS techniques, Flexbox, CSS Grid, and responsive design principles. Built 5 real-world projects including a personal portfolio, survey form, and product landing page — demonstrating proficiency in creating accessible, mobile-first web experiences.
+
+**🧮 [JavaScript Algorithms & Data Structures Certification](https://www.freecodecamp.org/certification/ShuaibuPassionateProgrammer/javascript-algorithms-and-data-structures-v8)**  
+*freeCodeCamp (300+ hours)*  
+Developed strong foundation in ES6+ JavaScript, functional programming, and algorithmic thinking. Completed comprehensive challenges covering data manipulation, algorithm optimization, and problem-solving techniques essential for building robust applications.
 
 ---
 
