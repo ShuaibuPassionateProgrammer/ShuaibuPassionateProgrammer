@@ -240,7 +240,7 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
+<div align="left">
 
 ### 🌐 Find Me Across The Web
 
