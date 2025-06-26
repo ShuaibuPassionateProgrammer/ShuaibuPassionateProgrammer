@@ -106,16 +106,34 @@
 
 ## 🌟 Featured Projects
 
-- **[MyPortfolio](https://github.com/ShuaibuPassionateProgrammer/myportfolio)**  
-  <sub>Personal portfolio with Next.js & Tailwind CSS, modern UI, dark mode, fully responsive.</sub>
+### 🎨 [MyPortfolio](https://github.com/ShuaibuPassionateProgrammer/myportfolio)
+**Personal Portfolio & Brand Identity**  
+A modern, responsive portfolio built with Next.js 14 and Tailwind CSS. Features seamless dark/light mode transitions, smooth animations, and optimized performance. Showcases my development journey and technical expertise through an intuitive, accessible design.
 
-- **[Taskify](https://github.com/ShuaibuPassionateProgrammer/taskify)**  
-  <sub>Productivity app with Flutter & Firebase, real-time collaboration, project management, offline support.</sub>
+**Tech Stack**: Next.js • Tailwind CSS • TypeScript • Framer Motion  
+**Highlights**: Dark mode toggle • Responsive design • Performance optimized • SEO friendly
 
-- **[E-Shop Backend](https://github.com/ShuaibuPassionateProgrammer/e-shop-backend)**  
-  <sub>RESTful API for e-commerce (Express.js, MongoDB, JWT Auth) — secure and powerful backend for scalable shops.</sub>
+---
 
-> _See more in my pinned repositories!_
+### 📱 [Taskify](https://github.com/ShuaibuPassionateProgrammer/taskify)
+**Cross-Platform Productivity Suite**  
+A comprehensive task management application built with Flutter, enabling real-time collaboration across teams. Features offline-first architecture, project organization, and seamless synchronization with Firebase backend.
+
+**Tech Stack**: Flutter • Firebase • Dart • Cloud Firestore  
+**Highlights**: Real-time collaboration • Offline support • Cross-platform • Team management
+
+---
+
+### 🛒 [E-Shop Backend](https://github.com/ShuaibuPassionateProgrammer/e-shop-backend)
+**Enterprise E-Commerce API**  
+Robust RESTful API powering scalable e-commerce solutions. Built with Express.js and MongoDB, featuring JWT authentication, payment integration, inventory management, and comprehensive security measures for production environments.
+
+**Tech Stack**: Express.js • MongoDB • JWT • Node.js  
+**Highlights**: Secure authentication • Payment gateway • Inventory system • Production-ready
+
+---
+
+> 💡 **Want to see more?** Check out my [pinned repositories](https://github.com/ShuaibuPassionateProgrammer) for additional projects and open-source contributions!
 
 ---
 
