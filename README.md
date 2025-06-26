@@ -140,7 +140,8 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 <sub>Clean code, testing, TypeScript</sub>
 </td>
 <td align="center" width="200">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services logo" width="40" height="40" /><br>
 <strong>Cloud & DevOps</strong><br>
 <sub>Deployment, scaling, infrastructure</sub>
 </td>
