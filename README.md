@@ -118,37 +118,6 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 
 ---
 
-## 🤝 Let's Connect
-<div align="center">
-<a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" title="Connect on LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://x.com/shuaibu92685472" target="_blank" title="Say hi on Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="https://medium.com/@yourmediumprofile" target="_blank" title="Read my Medium articles">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-&nbsp;
-<a href="mailto:shuaibuibrahim523@gmail.com" title="Email me">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</div>
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35"/>
-  <strong>Excited to collaborate, contribute to open-source, or chat tech and innovation.<br>
-  <span style="color:
-#0e75b6;">Let's connect and build something impactful together!</span> 🚀</strong>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
-</p>
-
----
-
 ### 💬 What I Love Discussing
 
 <table align="center">
@@ -187,3 +156,34 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 </td>
 </tr>
 </table>
+
+---
+
+## 🤝 Let's Connect
+<div align="center">
+<a href="https://www.linkedin.com/in/shuaibu-ibrahim-76970b279/" target="_blank" title="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/shuaibu92685472" target="_blank" title="Say hi on Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@yourmediumprofile" target="_blank" title="Read my Medium articles">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:shuaibuibrahim523@gmail.com" title="Email me">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="35"/>
+  <strong>Excited to collaborate, contribute to open-source, or chat tech and innovation.<br>
+  <span style="color:
+#0e75b6;">Let's connect and build something impactful together!</span> 🚀</strong>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=90&section=footer"/>
+</p>
