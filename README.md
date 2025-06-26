@@ -104,22 +104,6 @@
 
 ---
 
-## 💬 Let's Connect & Collaborate
-
-I'm passionate about meaningful conversations around:
-- **Clean Code Practices** & Software Architecture
-- **Career Growth** in Tech & Mentorship Opportunities  
-- **Book Recommendations** (always building my reading list!)
-- **Open Source Collaboration** & Community Building
-
-**Ready to chat?** Reach out at [shuaibuibrahim523@gmail.com](mailto:shuaibuibrahim523@gmail.com) — I'd love to hear about your projects and exchange ideas!
-
-*Building better software, one conversation at a time* ✨
-
-> _I’m always open to chat about code, tech careers, or cool book recommendations—[let’s connect!](mailto:shuaibuibrahim523@gmail.com)_
-
----
-
 ## 🏅 Achievements & Certifications
 
 ### 📜 Verified Credentials
