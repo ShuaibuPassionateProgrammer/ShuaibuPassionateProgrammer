@@ -169,8 +169,8 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 &nbsp;
-<a href="https://medium.com/@yourmediumprofile" target="_blank" title="Read my Medium articles">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<a href="https://t.me/shuaibu_passionate_programmer" target="_blank" title="Contact me on Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
 <a href="mailto:shuaibuibrahim523@gmail.com" title="Email me">
