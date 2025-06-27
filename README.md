@@ -169,12 +169,12 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 &nbsp;
-<a href="https://t.me/shuaibu_passionate_programmer" target="_blank" title="Contact me on Telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-&nbsp;
 <a href="mailto:shuaibuibrahim523@gmail.com" title="Email me">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://t.me/shuaibu_passionate_programmer" target="_blank" title="Contact me on Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
 <br/>
