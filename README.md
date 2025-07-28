@@ -28,13 +28,12 @@
 
 <div align="center">
 
-<!-- TECHNOLOGY TABLE START -->
 <table>
   <thead>
     <tr>
-      <th>🌐&nbsp;&nbsp;<strong>Web & Backend</strong></th>
-      <th>💻&nbsp;&nbsp;<strong>Languages & Libraries</strong></th>
-      <th>🗄️&nbsp;&nbsp;<strong>Databases & ORMs</strong></th>
+      <th style="text-align:center;">🌐&nbsp;&nbsp;<strong>Web & Backend</strong></th>
+      <th style="text-align:center;">💻&nbsp;&nbsp;<strong>Languages & Libraries</strong></th>
+      <th style="text-align:center;">🗄️&nbsp;&nbsp;<strong>Databases & ORMs</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -83,11 +82,11 @@
   <tfoot>
     <tr>
       <th>🎨&nbsp;&nbsp;<strong>UI / CSS Frameworks</strong></th>
-      <th>📱&nbsp;&nbsp;<strong>Cross-Platform</strong></th>
+      <th>📱&nbsp;&nbsp;<strong>Cross‑Platform</strong></th>
       <th>⚙️&nbsp;&nbsp;<strong>DevOps & Tools</strong></th>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
     </tr>
@@ -102,7 +101,7 @@
       <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" /></td>
       <td><img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" /></td>
       <td></td>
     </tr>
@@ -110,6 +109,7 @@
 </table>
 
 </div>
+
 
 ## ✨ GitHub Highlights
 
