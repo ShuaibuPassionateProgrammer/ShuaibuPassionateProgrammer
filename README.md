@@ -109,12 +109,13 @@
 
 ## ✨ GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" height="170" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ShuaibuPassionateProgrammer&theme=radical" alt="GitHub Streak" height="170"/>  -->
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=yosefm17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<div style="overflow-x: auto;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: nowrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShuaibuPassionateProgrammer&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaibuPassionateProgrammer&layout=compact&theme=radical" alt="Top Languages" width="300" />
+    <img src="https://streak-stats.demolab.com?user=ShuaibuPassionateProgrammer&theme=radical&hide_border=false" alt="GitHub Streak" width="350" />
+  </div>
+</div>
 
 ## 🏅 Achievements & Certifications
 
