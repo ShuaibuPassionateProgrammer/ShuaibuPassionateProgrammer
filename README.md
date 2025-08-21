@@ -6,7 +6,7 @@
 # 👋 Hi, I'm <span style="color:#0e75b6"><b>Ibrahim Shuaibu Isa</b></span>  
 🎓 <b>Full-Stack Software Developer</b> &nbsp;|&nbsp; 📱 <b>Mobile App Developer</b>
 
-<img src="https://komarev.com/ghpvc/?username=ShuaibuPassionateProgrammer&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ShuaibuPassionateProgrammer&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" /> -->
 
 </div>
 
