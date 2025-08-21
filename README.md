@@ -1,4 +1,5 @@
 <!-- Profile ReadMe for Ibrahim Shuaibu Isa | ShuaibuPassionateProgrammer -->
+<img src="https://komarev.com/ghpvc/?username=ShuaibuPassionateProgrammer&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 <div align="center">
 
