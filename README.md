@@ -26,135 +26,72 @@
 ---
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+### 🌐 Web & Backend  
+<p align="left">
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /></a>
+  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" /></a>
+  <a href="https://convex.dev/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/convex_square.png" width="40" alt="Convex" /></a>
+  <a href="https://ejs.co/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/ejs_square.png" width="40" alt="EJS" /></a>
+  <a href="https://next-auth.js.org/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/nextauth_square.png" width="40" alt="NextAuth" /></a>
+  <a href="https://clerk.com/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/clerk_square.png" width="40" alt="Clerk" /></a>
+</p>
 
-  <!-- Languages -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55" height="55" />
-      </td>
-    </tr>
-  </table>
+### 💻 Languages & Libraries  
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" /></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="40" alt="Dart" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /></a>
+  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="40" alt="C" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=csharp" width="40" alt="C#" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="40" alt="Kotlin" /></a>
+  <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://skillicons.dev/icons?i=ajax" width="40" alt="AJAX" /></a>
+</p>
 
-  <!-- Frameworks -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" />
-      </td>
-    </tr>
-  </table>
+### 🗄️ Databases & ORMs  
+<p align="left">
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="40" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /></a>
+  <a href="https://mongoosejs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" alt="Mongoose" /></a>
+  <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" /></a>
+  <a href="https://www.sqlite.org/index.html"><img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="SQLite" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" /></a>
+  <a href="https://appwrite.io/"><img src="https://skillicons.dev/icons?i=appwrite" width="40" alt="Appwrite" /></a>
+</p>
 
-  <!-- Databases -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" />
-      </td>
-    </tr>
-  </table>
+### 📱 Mobile & Cross‑Platform  
+<p align="left">
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="40" alt="Flutter" /></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React Native" /></a>
+</p>
 
-  <!-- Tools -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" />
-      </td>
-    </tr>
-  </table>
+### 🎨 UI Frameworks & CSS  
+<p align="left">
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap" /></a>
+  <a href="https://chakra-ui.com/"><img src="https://skillicons.dev/icons?i=chakraui" width="40" alt="Chakra UI" /></a>
+  <a href="https://www.radix-ui.com/"><img src="https://skillicons.dev/icons?i=radix-ui" width="40" alt="Radix UI" /></a>
+  <a href="https://daisyui.com/"><img src="https://skillicons.dev/icons?i=daisyui" width="40" alt="Daisy UI" /></a>
+  <a href="https://ui.shadcn.com/"><img src="https://skillicons.dev/icons?i=shadcn" width="40" alt="Shadcn UI" /></a>
+</p>
 
-  <!-- Cloud -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" />
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="55" height="55" />
-      </td>
-    </tr>
-  </table>
+### ⚙️ DevOps & Tools  
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /></a>
+</p>
 
-</div>
 
+##
 
 
 
