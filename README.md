@@ -10,20 +10,20 @@
 
 </div>
 
----
+##
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=2000&color=0e75b6&center=true&vCenter=true&width=950&lines=Creating+robust+solutions+for+the+future.;Passionate+about+clean+code+%26+user-centered+design.;Open+Source+Enthusiast+and+Mentor.;Let's+build+the+next+big+thing+together!+" />
 </p>
 
----
+##
 
 <p align="center">
 <b>💼 5+ Years</b> experience in scalable web & mobile solutions  
 <b>💡 Driven by impactful, intuitive technology that solves real-world problems</b>
 </p>
 
----
+##
 ## 🛠️ Technologies & Tools
 
 ### 🌐 Web & Backend  
@@ -177,9 +177,8 @@
 
 </td></tr></table>-->
 
-<br/>
 
-## ✨ GitHub Highlights
+## ✨ GitHub Highlights 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 30px;">
   <p align="center">
@@ -203,7 +202,7 @@ Developed strong foundation in ES6+ JavaScript, functional programming, and algo
 
 ### 💬 What I Love Discussing
 
-<hr />
+##
 
 <table align="center">
 <tr>
