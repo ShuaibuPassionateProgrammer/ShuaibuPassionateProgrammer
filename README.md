@@ -35,24 +35,31 @@
   <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /></a>
   <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" /></a>
-  <!-- <a href="https://convex.dev/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/convex_square.png" width="40" alt="Convex" /></a> -->
-  <!-- <a href="https://ejs.co/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/ejs_square.png" width="40" alt="EJS" /></a> -->
   <a href="https://next-auth.js.org/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/nextauth_square.png" width="40" alt="NextAuth" /></a>
-  <!-- <a href="https://clerk.com/"><img src="https://raw.githubusercontent.com/ShuaibuPassionateProgrammer/ShuaibuPassionateProgrammer/main/clerk_square.png" width="40" alt="Clerk" /></a> -->
 </p>
 
 ### 💻 Languages & Libraries  
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3" /></a>
+  <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" width="40" alt="SCSS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript" /></a>
+  <!-- Fixed AJAX icon -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+    <img src="https://i.imgur.com/SJANBEQ.png" width="40" alt="AJAX" />
+  </a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" /></a>
   <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="40" alt="Dart" /></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /></a>
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /></a>
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="40" alt="C" /></a>
-  <!-- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=csharp" width="40" alt="C#" /></a> -->
   <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" width="40" alt="Kotlin" /></a>
   <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://skillicons.dev/icons?i=ajax" width="40" alt="AJAX" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /></a>
+  <!-- Fixed C# icon -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  </a>
 </p>
 
 ### 🗄️ Databases & ORMs  
@@ -88,6 +95,7 @@
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=visualstudio" width="40" alt="VS Code" /></a>
 </p>
 
 
